@@ -18,7 +18,7 @@ numerical simulations of Bell-type inequalities.
 
 ## Report
 
-[View the full project report](Bell_inequalities_and_entanglement.pdf)
+[View the full project report](On Bell's inequality and entanglement.pdf)
 
 ## Authors
 
